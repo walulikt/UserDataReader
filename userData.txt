@@ -1,0 +1,8 @@
+Jan,Kowalski,1980-01-02,123456789
+Tomasz,Wspania³y,1985-12-24,987654321
+Robert,Mocny,1990-06-12,963852741
+Justyn,Chêtna,1995-02-04,1472528369
+Anna,Rozumna,2000-03-06,321654987
+Katarzyna,Cierpliwa,1975-04-08,789456132
+S³awomir,Smutny,1950-08-16,
+Karol,Niemota,1970-09-18,
